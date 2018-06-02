@@ -7,3 +7,7 @@
   display: block;
   margin: auto;
 }
+
+.big_bad.center {
+  text-align:center;
+}
