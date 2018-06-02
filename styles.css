@@ -1,3 +1,9 @@
 .big_bad {
   font-family: "Benton Sans Ex Comp Bla", sans-serif;
 }
+
+.center {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
