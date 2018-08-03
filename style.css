@@ -1,10 +1,13 @@
+* {
+  font-family: "Benton Sans Ex Comp Bla", sans-serif;
+}
+
 img {
   width: 300px;
   height: 300px;
 }
 
 .big_bad {
-  font-family: "Benton Sans Ex Comp Bla", sans-serif;
   width: 200px;
 }
 
