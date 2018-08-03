@@ -1,0 +1,29 @@
+img {
+  width: 300px;
+  height: 300px;
+}
+
+.big_bad {
+  font-family: "Benton Sans Ex Comp Bla", sans-serif;
+  width: 200px;
+}
+
+.center {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.big_bad.center {
+  text-align: center;
+}
+
+#flex {
+  display: flex;
+  margin: auto;
+}
+
+#flex-container {
+  display: inline-block;
+  margin: 0 auto;
+}
