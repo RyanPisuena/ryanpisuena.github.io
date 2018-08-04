@@ -1,6 +1,11 @@
 * {
   font-family: "Benton Sans Ex Comp Bla", sans-serif;
   text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url('https://wallpapercave.com/wp/nsFJoNv.jpg');
 }
 
 img {
