@@ -23,6 +23,14 @@ img {
   justify-content: center;
 }
 
+.contact {
+  background-color: white;
+}
+
+.fab {
+ font-size: 200px;
+  padding: 20px;
+}
 
 #flex {
   display: flex;
@@ -33,6 +41,23 @@ img {
   display: inline-block;
   margin: 0 auto;
 }
+
+#freecodecamp {
+  color: #006400;
+}
+
+#github {
+  	color:#6e5494;
+}
+
+#google {
+  color: #c71610;
+}
+
+#linkedin {
+  color: #0077B5;
+}
+
 
 #navbar {
   background-color: #33cc33;
