@@ -18,9 +18,6 @@ img {
   justify-content: center;
 }
 
-.big_bad.center {
-  text-align: center;
-}
 
 #flex {
   display: flex;
@@ -30,4 +27,8 @@ img {
 #flex-container {
   display: inline-block;
   margin: 0 auto;
+}
+
+#navbar {
+  display:inline-inline-block;
 }
