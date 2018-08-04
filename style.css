@@ -66,3 +66,7 @@ img {
   top: 0;
   left: 0;
 }
+
+#profile-link {
+  z-index: 0;
+}
