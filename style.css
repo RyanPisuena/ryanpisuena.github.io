@@ -12,6 +12,7 @@
 section {
   padding: 20px;
 }
+
 body {
   background-color: grey;
 }
@@ -41,8 +42,8 @@ img {
 }
 
 .project-tile {
-  width: 400px;
-  height: 500px;
+  width: 350px;
+  height: 350px;
 }
 
 #About-Me {
@@ -80,6 +81,7 @@ img {
 
 #projects {
   display: flex;
+  flex-wrap: wrap;
 }
 
 #welcome-section {
